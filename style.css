@@ -1,0 +1,53 @@
+body{
+    background: gray;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+.tprincipal {
+    background-color: white;
+    padding: 1px;
+    text-align: center;
+}
+
+.imagen{
+    position: relative;
+    margin: auto;
+    width: 760px;
+    height: 444px;  
+}
+    
+.tsegundo {
+    background: white;
+    margin: auto;
+    width: 760px;
+    height: 50px;
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    width: 400px;
+    height: 50px;
+    text-align: left;
+}
+
+.text1 {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    width: 400px;
+    height: 50px;
+    text-align: right;
+}
+
+.piedefoto {
+    background: white;
+    margin: auto;
+    width: 760px;
+    height: 70px;
+    bottom: 0px;
+    position: absolute;
+}
